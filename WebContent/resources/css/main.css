@@ -1,0 +1,11 @@
+#t1 {
+	padding-top: 30px;
+}
+table.ct {
+	 border-collapse:collapse;
+ 	 margin: 0 auto;
+}
+
+table.ct, td{
+  border: 1px solid black;
+}
